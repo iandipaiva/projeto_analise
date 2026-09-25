@@ -11,3 +11,18 @@
 /.vs/Github.slnx/FileContentIndex/662ae7b3-3319-4868-8bf5-add3a444ab58.vsidx
 /.vs/Github.slnx/FileContentIndex/2317ed63-7240-4ae8-8d50-af6e525278d0.vsidx
 /.vs/Github.slnx/FileContentIndex/5c8b97c9-9606-40ea-9836-23e94cd768ca.vsidx
+
+##############################################################################
+# Python
+__pycache__/
+*.py[cod]
+
+##############################################################################
+# Jupyter
+.ipynb_checkpoints/
+
+##############################################################################
+# Dados
+*.csv
+*.xlsx
+*.xls
